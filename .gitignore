@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Other Python files
+*.log
+*.pot
+*.prof
+
+# IDEs
+.vscode/
+.idea/
