@@ -23,5 +23,6 @@ build/
 .vscode/
 .idea/
 
-# Other
+# Models
 GoogleNews-vectors-negative300.bin.gz
+gru_model_group6
