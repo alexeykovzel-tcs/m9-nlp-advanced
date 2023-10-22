@@ -22,3 +22,6 @@ build/
 # IDEs
 .vscode/
 .idea/
+
+# Other
+GoogleNews-vectors-negative300.bin.gz
